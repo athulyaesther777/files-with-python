@@ -20,5 +20,8 @@ Part 5:
 System commands 
 For Windows, use the dir command to list files in the directory: This suggests using the dir command on Windows.
 
+Part 6:
+Automatic Desktop that give you a different experience while working on this code.
+
 
 
