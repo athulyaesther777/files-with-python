@@ -1,0 +1,23 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "department": "Development",
+      "salary": 60000
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Project Manager",
+      "department": "Management",
+      "salary": 75000
+    }
+  ],
+  "company": {
+    "name": "Tech Innovations",
+    "location": "New York",
+    "established": 2010
+  }
+}
