@@ -20,6 +20,9 @@ Part 5:
 System commands 
 For Windows, use the dir command to list files in the directory: This suggests using the dir command on Windows.
 
+Part 6(basic 1) - Part 6(basic 7):
+Before proceeding to Part 6 (Automatic Desktop), it is advisable to review Parts 6 (Basic 1) to 6 (Basic 7). Familiarizing yourself with these foundational concepts will enhance your understanding and effectiveness in navigating and implementing the content of Part 6 and Part 7.
+
 Part 6:
 Automatic Desktop that give you a different experience while working on this code.
 
