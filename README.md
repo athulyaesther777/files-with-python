@@ -29,6 +29,9 @@ Automatic Desktop that give you a different experience while working on this cod
 Part 7:
 Automatic Desktop part continuation.
 
+Part 8 to Part 13:
+Here we talk about API and Json in python and How it works 
+
 
 
 
