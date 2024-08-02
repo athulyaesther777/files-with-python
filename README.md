@@ -32,6 +32,12 @@ Automatic Desktop part continuation.
 Part 8 to Part 13:
 Here we talk about API and Json in python and How it works 
 
+Part 14:
+We are talking about the SQLite and make use of that with python.
+
+Part 15:
+Web scraping for extracting data from the websites .
+
 
 
 
